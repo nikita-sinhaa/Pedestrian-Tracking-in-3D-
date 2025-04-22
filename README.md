@@ -27,7 +27,9 @@ Pedestrian3D_Tracking/
 ├── data/
 │   └── multi_view_input/          # Multi-camera simulated frames
 ├── models/
-│   └── pose_estimation_model.pth  # (Optional) pretrained models
+│   └──  pose_hrnet.py – HRNet model definition
+|   └──  hrnet_w48_384x288.yaml – Config file for the W48 model
+|   └──  pose_hrnet_w48_384x288.pth – Slot for the actual pretrained weights.
 ├── src/
 │   ├── detect_2d_pose.py          # Simulated 2D joint detection
 │   ├── triangulate_3d_pose.py     # Triangulation logic
