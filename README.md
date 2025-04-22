@@ -93,11 +93,5 @@ python src/visualize_3d_trajectory.py
 ---
 
 ## 👩‍💻 Author
-**Nikita Sinha**  
-M.S. in Electrical and Computer Engineering  
-🔗 [LinkedIn](https://www.linkedin.com/in/nikita-sinhaa)
-
----
-
-## 🏷️ Tags
-`#3DPoseEstimation` `#PedestrianTracking` `#ComputerVision` `#KalmanFilter` `#HumanPoseEstimation` `#Python` `#SmartSurveillance`
+**Nikita Sinha** 
+-🔧 Firmware & Embedded Systems | M.S. Electrical and Computer Engineering
